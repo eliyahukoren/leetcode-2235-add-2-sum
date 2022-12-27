@@ -1,8 +1,9 @@
 ## 2235. Add Two Integers
 
-## 
 
 ![codewars](https://www.codewars.com/users/eliyahukoren/badges/large)
+
+## 
 
 <div style="padding: 10px; background-color: rgba(255,255,255, 1); margin-bottom: 5px; border-radius: 10px;">
     <a href="https://leetcode.com/problems/add-two-integers/">
@@ -10,7 +11,11 @@
     </a>
 </div>
 
+##
+
 ![](https://img.shields.io/github/actions/workflow/status/eliyahukoren/leetcode-2235-add-2-sum/actions.yml?label=2235%20LeetCode&logo=logo)
+
+##
 
 **Easy**
 
