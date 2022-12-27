@@ -1,4 +1,4 @@
-name: 2279 Max Bags Action
+name: 2235 Add Two Integers Action
 run-name: ${{ github.actor }} 🚀
 on: [push]
 jobs:
